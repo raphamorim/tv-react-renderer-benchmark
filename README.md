@@ -1,6 +1,14 @@
 # TV React Renderer Benchmark
 
-```js
+| Scenario | React-DOM `16.2.0` | React-TV `0.3.4` |
+| --- | --- | --- |
+| Rendering once with 3 Components | `13.4MB` | `12.7MB` |
+
+## Raw Output
+
+```bash
+$ node benchmark.js
+
 react-tv { usedJSHeapSize: 10000000,
   totalJSHeapSize: 12700000,
   jsHeapSizeLimit: 2190000000,
