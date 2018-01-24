@@ -1,0 +1,22 @@
+{
+  "name": "react-dom-app",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "webpack-dev-server --progress --colors --port 3012"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "cross-env": "^5.1.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-tv-cli": "^0.3.4",
+    "react-tv-navigation": "^0.4.0",
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.4"
+  }
+}
