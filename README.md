@@ -1,5 +1,7 @@
 # TV React Renderer Benchmark
 
+> Honest Benchmark about React renderers for TVs
+
 | Scenario | React-DOM `16.2.0` | React-TV `0.3.4` | Percentage of best |
 | :--- | :--- | :--- | :--- |
 | Rendering once with 3 Components | `13.4MB` | `12.7MB` |  react-tv with `12.5%`|

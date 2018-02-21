@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/raphamorim/tv-react-renderer-benchmark#readme",
   "dependencies": {
-    "memory-inspector": "^0.0.3",
+    "memory-inspector": "^0.0.4",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-tv": "^0.3.4"
